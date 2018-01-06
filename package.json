@@ -15,8 +15,8 @@
   "dependencies": {
     "cosmiconfig": "^3.1.0",
     "object-assign": "^4.1.0",
-    "postcss-load-options": "^1.2.0",
-    "postcss-load-plugins": "^2.3.0"
+    "postcss-load-options": "dreammaster82/postcss-load-options",
+    "postcss-load-plugins": "dreammaster82/postcss-load-plugins"
   },
   "devDependencies": {
     "ava": "^0.22.0",
